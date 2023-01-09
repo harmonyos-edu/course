@@ -2,8 +2,8 @@ export default {
   clientId: 385,
   roomURL: 'https://room.os2edu.cn',
   logo: 'https://ssl.cdn.maodouketang.com/Fpkgonzaw5GTUFa0Bfvd_ZlO5yq1',
-  title: '开源操作系统社区',
-  subTitle: '促进操作系统的教学、研究与产业的发展',
+  title: '鸿蒙开发工程师培训',
+  subTitle: '促进国产鸿蒙操作系统的教学、研究与产业的发展',
   footer: {
     resources: [
       {
